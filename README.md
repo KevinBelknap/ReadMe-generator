@@ -16,21 +16,16 @@ Clone the repository from github.
 Install the required dependencies by running npm install.
 
 ## Usage
-To generate a README for your project using the README Generator, run the command node index.js in your project's directory. You will be prompted to provide information about your project, such as the project title, description, installation instructions, usage information, license, contributing guidelines, and more. Once you have provided all the necessary information, the README.md file will be generated with the appropriate sections and content. https://drive.google.com/file/d/1Se9oIo5nnHNZPiKc-dBbaSsUsgGLyC3G/view
+To generate a new README for your project using this applciation, run  'node index.js' in your integrated terminal.Enter the information that pops up and press enter as you go along. Once you have filled out all the questions the README.md file will be generated with the appropriate sections and content based on the information you provided. 
 
 ##  License
-This application is covered under the MIT License.
+MIT License.
 
 ## Contributing
-Contributions are welcome! If you want to contribute to the README Generator, please follow these guidelines:
+Contributions are welcome! If you want to contribute please fork the repository and create a new branch to make any new edits. I will push changes to the main repository if you can help improve the file!
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them.
-Push your changes to your forked repository.
-Submit a pull request to the main repository.
 ## Questions
-If you have any questions or need further assistance, feel free to reach out:
+If you have any questions, feel free to reach out!
 
-GitHub: KevinBelknap
-Email: kevinb5280@hotmmail.com
+GitHub: KevinBelknap  
+Email: kevinb5280@hotmmail.com  
