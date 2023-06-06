@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const fs =require('fs');
-// TODO: Create an array of questions for user input
+//these are the questions that will be asked
 const questions = [
     {
         type: 'input',
@@ -41,9 +41,6 @@ const questions = [
         type: 'input',
         name: 'questions',
         message: 'Please provide your email address so users can ask you questions.',
-        //validate: (value)=>(value ? true : 'Please enter an email.'),
-        message: 'Please provide your Github link so users can ask you questions.',
-        //validate: (value)=>(value ? true : 'Please enter an email.')
     },       
      {
         type: 'input',
