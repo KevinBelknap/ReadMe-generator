@@ -18,6 +18,11 @@ Install the required dependencies by running npm install.
 ## Usage
 To generate a new README for your project using this applciation, run  'node index.js' in your integrated terminal.Enter the information that pops up and press enter as you go along. Once you have filled out all the questions the README.md file will be generated with the appropriate sections and content based on the information you provided. 
 
+
+https://github.com/KevinBelknap/ReadMe-generator/assets/128446838/3c51aecf-67cf-4892-9105-b2145f42e71f
+
+
+
 ##  License
 MIT License.
 
