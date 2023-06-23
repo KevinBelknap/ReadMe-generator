@@ -26,7 +26,7 @@ const questions = [
         choices:[
             'MIT',
             'Apache',
-            'Other',
+            'No License',
         ]
     },
     {
@@ -46,7 +46,7 @@ const questions = [
     },       
      {
         type: 'input',
-        name: 'Email',
+        name: 'email',
         message: 'Enter an email where questions can be submitted: '
     },
 ];
