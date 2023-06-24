@@ -1,5 +1,7 @@
-# test
- 
+# Project Example
+  [MIT](https://opensource.org/licenses/MIT)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
 ## Description
 
 ## Table of Contents
@@ -14,11 +16,11 @@
 
 ## Installation
 
-test
+Project example instructions
 
 ## Usage
 
-test
+install from github
 
 ## License
 
@@ -28,13 +30,13 @@ This project is licensed under the MIT license.
 
 ## Contributing Guidelines
 
-test
+you can make a fork, submit to github, do a pull requesst
 
 ## Questions
 
-test
+kevinb5280@hotmail.com
 
 ## Contact Information
 
-test
+kevinb5280@hotmail.com
 
