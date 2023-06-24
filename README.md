@@ -26,6 +26,9 @@ To use the README Generator, follow these steps:
 
 To create a project README using the README Generator, execute the command `node index.js` in your project's folder. You'll receive prompts to enter details like project title, description, installation instructions, usage info, license, contributing guidelines, and more. After providing all the required information, the README.md file will be generated with the relevant sections and content. I provided a video below as a example.
 
+[Video](https://github.com/KevinBelknap/ReadMe-generator/assets/128446838/409c27e4-d1b4-459e-8917-cdb5685bbaa7)
+
+
 
 ## License
 
